@@ -12,6 +12,8 @@ Fastify
 @fastify/cors
 Node.js
 TSX
+
+
 📋 Funcionalidades
 Equipes
 Listar todas as equipes
